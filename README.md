@@ -42,25 +42,6 @@ FRKHD - это современный менеджер задач, создан�
 - Python 3.7 или выше
 - Операционная система: Windows, macOS, Linux
 
-#### Установка
-
-1. **Скачайте проект:**
-   ```bash
-   git clone https://github.com/ваш-никнейм/frkhd-task-manager.git
-   cd frkhd-task-manager
-   ```
-
-2. **Установите зависимости:**
-   ```bash
-   cd todo_app
-   pip install -r requirements.txt
-   ```
-
-3. **Запустите приложение:**
-   ```bash
-   python advanced_todo.py
-   ```
-
 ### 🎮 Как использовать
 
 #### Создание задачи
@@ -177,25 +158,6 @@ FRKHD is a modern task manager built with Python and Tkinter. The application co
 #### Requirements
 - Python 3.7 or higher
 - Operating System: Windows, macOS, Linux
-
-#### Installation
-
-1. **Download the project:**
-   ```bash
-   git clone https://github.com/your-username/frkhd-task-manager.git
-   cd frkhd-task-manager
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   cd todo_app
-   pip install -r requirements.txt
-   ```
-
-3. **Run the application:**
-   ```bash
-   python advanced_todo.py
-   ```
 
 ### 🎮 How to Use
 
